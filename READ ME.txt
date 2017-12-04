@@ -1,0 +1,16 @@
+How to Run this Application:
+
+
+1.Double click on the server.jar in the "Root" folder. You need to load a (.xml) file to start the server. Browse the file directory(the file was given in the "Root" folder) and load it ; then click on "start server" Button. Now, the server will wait for the client connection.
+
+2. Double click on the messenger.jar to create client connection. You need to clicked double multiple time to create  multiple client. Give your Host Address, Host Port, Username, Password to sign up.
+
+3. You need not to signup again if you signup once.
+
+4. Write your message in message box and send to respective user.
+
+5. You can't send file(not the message) to multiple user at a time, select a user and browse the file and send.
+
+
+Author: Clientside-> Sourav Sarker , 2014331039
+Serverside -> Syeda Tamanna Alam Monisha , 2014331065
